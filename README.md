@@ -11,7 +11,7 @@ Our model is homemade, based on a Sagemaker vision model, fine trained on a spec
 
 ## Demo video
 
-Video available on [Youtube](https://www.youtube.com/watch?v=5VAKcQtoELo)
+Video available on [Youtube]([https://www.youtube.com/watch?v=5VAKcQtoELo](https://www.youtube.com/watch?v=NTSzYhmJzao))
 
 ## How to use it
 
